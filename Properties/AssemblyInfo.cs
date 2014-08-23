@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Evan Olds (www.evanolds.com)")]
 [assembly: AssemblyProduct("Animated Cursor Maker by Evan Olds (www.evanolds.com)")]
-[assembly: AssemblyCopyright("Copyright © Evan Olds 2008")]
+[assembly: AssemblyCopyright("Copyright © Evan Olds 2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -29,5 +29,5 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("0.9.0.0")]
-[assembly: AssemblyFileVersion("0.9.0.0")]
+[assembly: AssemblyVersion("1.0.0.0")]
+[assembly: AssemblyFileVersion("1.0.0.0")]
